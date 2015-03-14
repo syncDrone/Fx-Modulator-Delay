@@ -1,0 +1,17 @@
+Parameters		    Description
+active			      effect’s on/off
+filter				    filter amount
+attack			      carry's wave’s  attack
+decay			        carry's wave’s decay
+sustain			      carry's wave’s sustain
+release			      carry's wave’s release
+b1			        	modulator1’s wave’s beta1
+b2				        modulator2’s wave’s beta2
+depth lfo			    amount lfo modulation’s
+freq1				      modulator1’s frequency
+freq2				      modulator2’s frequency
+att excitation		filter’s attack
+rel excitation		filter’s release
+bandWide			    frequencies’s affected amount
+speed lfo			    frequency modulation amount
+volume			      main gain
